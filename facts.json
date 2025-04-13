@@ -1,0 +1,18 @@
+{
+  "facts": [
+    {
+      "id": "1",
+      "title": "Your brain has 86 billion neurons",
+      "description": "Neurons are specialized cells that form the basic building blocks of the brain. Each of the 86 billion neurons in the human brain can connect with thousands of others, creating a vast network that enables everything from basic bodily functions to complex thoughts and emotions.",
+      "learnMoreURL": "https://www.ncbi.nlm.nih.gov/books/NBK11103/",
+      "displayDate": "2024-04-01"
+    },
+    {
+      "id": "2",
+      "title": "Water expands when it freezes",
+      "description": "Unlike most substances, water expands by about 9% when it freezes. This unique property is why ice floats in water and is crucial for life on Earth, as it allows aquatic life to survive under frozen water bodies.",
+      "learnMoreURL": "https://www.scientificamerican.com/article/why-does-ice-float/",
+      "displayDate": "2024-04-02"
+    }
+  ]
+}
