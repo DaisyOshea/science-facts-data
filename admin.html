@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Science Facts Upload</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .fact-form {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        #output {
+            margin-top: 20px;
+            padding: 15px;
+            background: #fff;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="fact-form">
+        <h2>Add New Fact</h2>
+        <div class="form-group">
+            <label>Title:</label>
+            <input type="text" id="title" required>
+        </div>
+        <div class="form-group">
+            <label>Description:</label>
+            <textarea id="description" rows="4" required></textarea>
+        </div>
+        <div class="form-group">
+            <label>Learn More URL:</label>
+            <input type="url" id="learnMoreURL" required>
+        </div>
+        <div class="form-group">
+            <label>Display Date (YYYY-MM-DD):</label>
+            <input type="date" id="displayDate" required>
+        </div>
+        <button onclick="generateJSON()">Generate JSON</button>
+    </div>
+    <div id="output"></div>
+
+    <script>
+        function generateJSON() {
+            const fact = {
+                id: Date.now().toString(),
+                title: document.getElementById('title').value,
+                description: document.getElementById('description').value,
+                learnMoreURL: document.getElementById('learnMoreURL').value,
+                displayDate: document.getElementById('displayDate').value
+            };
+
+            const jsonOutput = JSON.stringify(fact, null, 2);
+            document.getElementById('output').innerHTML = `
+                <h3>Generated JSON:</h3>
+                <pre>${jsonOutput}</pre>
+                <p>Copy this and add it to your facts.json file</p>
+            `;
+        }
+    </script>
+</body>
+</html>
