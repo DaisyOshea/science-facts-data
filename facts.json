@@ -24,16 +24,15 @@
     {
   "id": "1744883448750",
   "title": "Test Fact",
-  "description": "test fact number 2 ",
+  "description": "test fact number 2",
   "learnMoreURL": "https://example.com",
   "displayDate": "2025-04-17",
   "icon": "star"
     },
     {
-      {
   "id": "1744991268709",
-  "title": "Test Fact Three ",
-  "description": "This is a test Fact ",
+  "title": "Test Fact Three",
+  "description": "This is a test Fact",
   "learnMoreURL": "https://example.com",
   "displayDate": "2025-04-18",
   "icon": "bolt"
