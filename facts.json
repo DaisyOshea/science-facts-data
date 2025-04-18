@@ -29,6 +29,14 @@
   "learnMoreURL": "https://example.com",
   "displayDate": "2025-04-18",
   "icon": "bolt"
+    },
+    {
+  "id": "1745000930843",
+  "title": "Earth’s Hidden Wobble: The Chandler Wobble",
+  "description": "Earth doesn’t spin perfectly on its axis—it actually wobbles slightly in a motion called the Chandler Wobble. This subtle shift causes the geographic poles to move in a small circle, about 9 meters wide, over a 433-day cycle. The wobble is driven by changes in atmospheric pressure, ocean currents, and even seismic activity. Though it’s minor, this movement shows that Earth is constantly in motion, shaped by both internal forces and surface dynamics.",
+  "learnMoreURL": "https://earthhow.com/chandler-wobble/",
+  "displayDate": "2025-04-19",
+  "icon": "globe"
     }
   ]
 }
