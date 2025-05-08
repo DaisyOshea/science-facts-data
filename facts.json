@@ -45,6 +45,189 @@
   "learnMoreURL": "https://earthhow.com/chandler-wobble/",
   "displayDate": "2025-04-19",
   "icon": "globe"
+    },
+    {
+  "id": "1746716927584",
+  "title": "A teaspoon of neutron star material weighs 10 million tonnes ",
+  "description": "The remains of huge stars in our galaxy that have reached the end of their lives, neutron stars are the densest objects we can observe directly. One teaspoon of this material is equivalent to the weight of over 40,000 times the weight of the Statue of Liberty. It is estimated by NASAA that there are up to one billion of these neutron stars in our galaxy. ",
+  "learnMoreURL": "https://www.space.com/22180-neutron-stars.html",
+  "displayDate": "2025-05-09",
+  "icon": "star" 
+    },
+    {
+  "id": "1746717001949",
+  "title": "One species of jellyfish has the ability to live forever ",
+  "description": "Nicknamed the immortal jellyfish, the Turritopsis dohrnii jellyfish can reverse its lifecycle, despite having no brain or organs. When the jellyfish is under physical stress, it shrinks into itself and returns to its juvenile stage. This process is known as transdifferentiation.",
+  "learnMoreURL": "https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html",
+  "displayDate": "2025-05-10",
+  "icon": "wave"
+    },
+    {
+  "id": "1746717064298",
+  "title": "Venus is the only planet to spin clockwise in our solar system",
+  "description": "In comparison to the other planets, Venus spins backwards. This is known as retro-grade rotation, and most credible theories suggest that Venus originally rotated anti-clockwise, meaning that a collision with another planet is likely what caused it to permanently shift its rotational direction.",
+  "learnMoreURL": "https://www.worldatlas.com/space/the-only-planet-that-rotates-clockwise.html",
+  "displayDate": "2025-05-11",
+  "icon": "moon"
+    },
+    {
+  "id": "1746716777403",
+  "title": "At a specific temperature and pressure, water exists as three states at once ",
+  "description": "At a temperature of 0.01 degrees celsius anda pressure of 612 Pascals, water molecules exist simultaneously as solid (ice), liquid (water) and gas (water vapour). These conditions are known as water's triple point, this 'triple point' is actually a property of most pure substances.",
+  "learnMoreURL": "https://www.fluke.com/en-us/learn/blog/calibration/what-is-triple-point-of-water?srsltid=AfmBOoroQvNUYOlCW-I8fHuLg36PDVsY9qLX7qxMELQq51JCGQB63C1E",
+  "displayDate": "2025-05-12",
+  "icon": "drop"
+    },
+    {
+  "id": "1746717135365",
+  "title": "Your Brain Could Store the Entire Internet",
+  "description": "Imagine your brain as a supercomputer with enough storage space to hold the entire internet's content multiple times over. That's approximately 2.5 petabytes of information, or the equivalent of watching 3 million hours of TV shows",
+  "learnMoreURL": "https://www.scientificamerican.com/article/what-is-the-memory-capacity/",
+  "displayDate": "2025-05-13",
+  "icon": "brain"
+    },
+    {
+  "id": "1746717227620",
+  "title": "The Sun Releases 100 Billion Nuclear Bombs of Energy Every Second",
+  "description": "In the time it takes you to read this sentence, the Sun has transformed 600 million tons of hydrogen into helium. This ongoing process, which has powered our solar system for 4.6 billion years, releases energy equivalent to 100 billion nuclear explosions every second.",
+  "learnMoreURL": "https://science.nasa.gov/sun/facts/",
+  "displayDate": "2025-05-14",
+  "icon": "sun.max"
+    },
+    {
+  "id": "1746717359528",
+  "title": "90% of Ocean Life is Still a Mystery to Science",
+  "description": "The ocean, covering 71% of our planet and holding 97% of Earth's water, remains largely unexplored. Scientists believe we've only discovered about 9% of all ocean species, leaving a vast world of marine life waiting to be found.",
+  "learnMoreURL": "https://oceanservice.noaa.gov/facts/ocean-species.html#:~:text=The%20number%20of%20species%20that,as%20possible%20about%20ocean%20life.",
+  "displayDate": "2025-05-15",
+  "icon": "water.waves"
+    },
+    {
+  "id": "1746717425977",
+  "title": "Your DNA Could Reach the Sun and Back 600 Times",
+  "description": "If you could unravel all the DNA in your body and lay it end to end, it would create a thread long enough to travel to the Sun and back 600 times. This incredible length is packed into each of your cells, with about 2 meters of DNA in every one.",
+  "learnMoreURL": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet",
+  "displayDate": "2025-05-16",
+  "icon": "dna"
+    },
+    {
+  "id": "1746717499995",
+  "title": "Earth's Life-Saving Shield is Thinner Than a Credit Card",
+  "description": "The ozone layer, our planet's protective shield against harmful UV radiation, is surprisingly thin. At just 3 millimeters thick under normal conditions, this delicate layer is thinner than a credit card, yet it's essential for protecting all life on Earth.",
+  "learnMoreURL": "https://climate.nasa.gov/news/2919/the-ozone-hole-was-super-scary-so-what-happened-to-it/",
+  "displayDate": "2025-05-17",
+  "icon": "cloud.sun"
+    },
+    {
+  "id": "1746717566544",
+  "title": "A Single Drop of Water Contains More Molecules Than Stars in Our Galaxy",
+  "description": "In just one drop of water, there are approximately 1.5 sextillion water molecules. That's more than all the stars in our Milky Way galaxy, which contains about 100-400 billion stars.",
+  "learnMoreURL": "https://www.chemistryworld.com/features/water-the-science-of-the-mysterious-molecule/3007088.article",
+  "displayDate": "2025-05-18",
+  "icon": "drop"
+    },
+    {
+  "id": "1746717646577",
+  "title": "Light Takes 8 Minutes to Reach Earth, But 100,000 Years to Escape the Sun",
+  "description": "While sunlight reaches Earth in just 8 minutes, the light we see today actually began its journey from the Sun's core about 100,000 years ago, slowly making its way through the Sun's dense layers.",
+  "learnMoreURL": "https://science.nasa.gov/sun/facts/",
+  "displayDate": "2025-05-19",
+  "icon": "sun.and.horizon"
+    },
+    {
+  "id": "1746717851075",
+  "title": "Your Body Replaces 98% of Its Atoms Every Year",
+  "description": "Through the constant process of eating, drinking, and breathing, your body completely renews almost all of its atoms annually. The only exceptions are some atoms in your DNA and brain cells.",
+  "learnMoreURL": "https://time.com/6248597/how-cells-keep-us-alive/",
+  "displayDate": "2025-05-20",
+  "icon": "atom"
+    },
+    {
+  "id": "1746717991606",
+  "title": "There Are More Trees on Earth Than Stars in Our Galaxy",
+  "description": "Earth is home to approximately 3 trillion trees, while our Milky Way galaxy contains about 100-400 billion stars. This means there are roughly 10 trees for every star in our galaxy.",
+  "learnMoreURL": "https://www.astronomy.com/astronomy-for-beginners/4-things-you-might-not-know-about-space/",
+  "displayDate": "2025-05-21",
+  "icon": "tree"
+    },
+    {
+  "id": "1746718251521",
+  "title": "Diamonds and Pencil Lead are Made of the Same Element",
+  "description": "Both diamonds and graphite (pencil lead) are pure carbon, just arranged differently. The same element that makes up the soft, dark marks in your notebook also forms the hardest natural substance on Earth.",
+  "learnMoreURL": "https://www.chemistryworld.com/features/diamond-vs-graphite/3007088.article",
+  "displayDate": "2025-05-22",
+  "icon": "sparkles"
+    },
+    {
+  "id": "1746718579234", "title": "You're Actually Floating Right Now",
+  "description": "Due to the electromagnetic forces between atoms, you're technically floating a tiny distance above any surface you're sitting or standing on. Your atoms never actually touch other atoms.",
+  "learnMoreURL": "https://futurism.com/why-you-can-never-actually-touch-anything",
+  "displayDate": "2025-05-23",
+  "icon": "atom"
+    },
+    {
+  "id": "1746718648335",
+  "title": "Your Body Contains More Bacteria Than Human Cells",
+  "description": "For every human cell in your body, there are about 1.3 bacterial cells. These trillions of microorganisms form your microbiome, playing crucial roles in digestion, immunity, and overall health.",
+  "learnMoreURL": "https://www.nature.com/articles/nature11234",
+  "displayDate": "2025-05-24",
+  "icon": "lungs"
+    },
+    {
+  "id": "1746718849016",
+  "title": "The First Computer Bug was an Actual Insect",
+  "description": "In 1947, Grace Hopper found a moth causing problems in the Harvard Mark II computer. She taped the insect in her logbook, coining the term 'debugging' for fixing computer problems.",
+  "learnMoreURL": "https://lunduke.substack.com/p/the-story-of-the-first-computer-bug",
+  "displayDate": "2025-05-25",
+  "icon": "keyboard"
+    },
+    {
+  "id": "1746718933566",
+  "title": "Quantum Entanglement: Particles That Defy Distance",
+  "description": "When two particles become 'entangled' in quantum physics, they become mysteriously connected. Measuring one particle's properties instantly affects its partner, no matter how far apart they are. This strange connection, which Einstein famously called 'spooky action at a distance,' has been proven through careful experiments and challenges our understanding of how the universe works at its most fundamental level.",
+  "learnMoreURL": "https://www.space.com/31933-quantum-entanglement-action-at-a-distance.html",
+  "displayDate": "2025-05-26",
+  "icon": "atom"
+    },
+    {
+  "id": "1746719006249",
+  "title": "Telomeres: The Cellular Timekeepers of Aging",
+  "description": "Telomeres are like protective caps at the ends of our chromosomes, similar to the plastic tips on shoelaces. Each time a cell divides, these caps get slightly shorter. When they become too short, the cell stops dividing and eventually dies. This process is a key part of aging, and scientists are studying how to maintain telomere length to potentially slow down the aging process.",
+  "learnMoreURL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3370421/#:~:text=Summary,of%20diseases%20and%20poor%20survival.",
+  "displayDate": "2025-05-27",
+  "icon": "dna"
+    },
+    {
+  "id": "1746719084397",
+  "title": "Black Holes: The Universe's Most Mysterious Objects",
+  "description": "Black holes, the universe's most mysterious objects, appear to break one of physics' fundamental rules: the second law of thermodynamics, which states that disorder always increases. However, Stephen Hawking discovered that black holes actually emit a type of radiation (now called Hawking radiation) that eventually causes them to shrink and disappear, solving this cosmic puzzle.",
+  "learnMoreURL": "https://science.nasa.gov/universe/black-holes/#:~:text=Black%20holes%20are%20among%20the,packed%20into%20very%20tiny%20spaces.",
+  "displayDate": "2025-05-28",
+  "icon": "meteor"
+    },
+    {
+  "id": "1746719163047",
+  "title": "The Brain's Security System: The Blood-Brain Barrier",
+  "description": "Your brain has a sophisticated security system called the blood-brain barrier. This protective layer acts like a highly selective filter, allowing essential nutrients to pass through while blocking harmful substances. It's made up of special (endothelial) cells that work together to maintain the delicate environment your brain needs to function properly.",
+  "learnMoreURL": "https://www.nature.com/articles/s41392-023-01481-w",
+  "displayDate": "2025-05-29", 
+  "icon": "brain"
+    },
+    {
+  "id": "1746719270495",
+  "title": "Electron Tunneling: Nature's Quantum Shortcut",
+  "description": "In the microscopic world of atoms and molecules, electrons can perform a remarkable trick called tunneling. Instead of going over energy barriers, they can pass through them, like walking through a wall. This quantum phenomenon is crucial in many biological processes, helping enzymes speed up chemical reactions in ways that classical physics can't explain.",
+  "learnMoreURL": "https://www.scientificamerican.com/article/quantum-tunneling-is-not-instantaneous-physicists-show/",
+  "displayDate": "2025-05-30",
+  "icon": "bolt"
+    },
+    {
+  "id": "1746719349162",
+  "title": "Epigenetics: How Your Environment Shapes Your Genes",
+  "description": "Epigenetics is like a set of switches that can turn genes on or off without changing the DNA sequence itself. These switches can be influenced by your environment, lifestyle, and experiences, and surprisingly, some of these changes can be passed down to future generations. This discovery has revolutionized our understanding of how traits are inherited and how our environment can affect our genes.",
+  "learnMoreURL": "https://www.genomicseducation.hee.nhs.uk/education/core-concepts/what-is-epigenetics/",
+  "displayDate": "2025-05-31",
+  "icon": "dna”
     }
   ]
 }
