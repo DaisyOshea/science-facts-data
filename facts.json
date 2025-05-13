@@ -60,7 +60,7 @@
   "description": "Nicknamed the immortal jellyfish, the Turritopsis dohrnii jellyfish can reverse its lifecycle, despite having no brain or organs. When the jellyfish is under physical stress, it shrinks into itself and returns to its juvenile stage. This process is known as transdifferentiation.",
   "learnMoreURL": "https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html",
   "displayDate": "2025-05-10",
-  "icon": "wave"
+  "icon": "drop"
     },
     {
   "id": "1746717064298",
@@ -195,7 +195,7 @@
   "description": "Telomeres are like protective caps at the ends of our chromosomes, similar to the plastic tips on shoelaces. Each time a cell divides, these caps get slightly shorter. When they become too short, the cell stops dividing and eventually dies. This process is a key part of aging, and scientists are studying how to maintain telomere length to potentially slow down the aging process.",
   "learnMoreURL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3370421/#:~:text=Summary,of%20diseases%20and%20poor%20survival.",
   "displayDate": "2025-05-27",
-  "icon": "dna"
+  "icon": "brain"
     },
     {
   "id": "1746719084397",
@@ -203,7 +203,7 @@
   "description": "Black holes, the universe's most mysterious objects, appear to break one of physics' fundamental rules: the second law of thermodynamics, which states that disorder always increases. However, Stephen Hawking discovered that black holes actually emit a type of radiation (now called Hawking radiation) that eventually causes them to shrink and disappear, solving this cosmic puzzle.",
   "learnMoreURL": "https://science.nasa.gov/universe/black-holes/#:~:text=Black%20holes%20are%20among%20the,packed%20into%20very%20tiny%20spaces.",
   "displayDate": "2025-05-28",
-  "icon": "meteor"
+  "icon": "moon"
     },
     {
   "id": "1746719163047",
@@ -227,7 +227,7 @@
   "description": "Epigenetics is like a set of switches that can turn genes on or off without changing the DNA sequence itself. These switches can be influenced by your environment, lifestyle, and experiences, and surprisingly, some of these changes can be passed down to future generations. This discovery has revolutionized our understanding of how traits are inherited and how our environment can affect our genes.",
   "learnMoreURL": "https://www.genomicseducation.hee.nhs.uk/education/core-concepts/what-is-epigenetics/",
   "displayDate": "2025-05-31",
-  "icon": "dna"
+  "icon": "globe"
     }
   ]
 }
